@@ -1,0 +1,144 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+.para{
+  color: #ff2e63;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding-bottom: 65px;
+  font-family: 'Comic Neue', cursive, sans-serif;
+}
+h1{
+  color: #ff2e63;
+  font-size: 6rem;
+  margin: 50px auto 20px auto;
+  font-family: 'Sacramento', cursive,'Alex Brush';
+
+}
+h2{
+  color: #ff2e63;
+  font-size: 3rem;
+  font-family: 'Satisfy', cursive;
+}
+h3{
+  color: #f2a51a;
+  font-family: 'Satisfy', cursive;
+  font-size: 2rem;
+}
+a
+{
+  color: #ff2e63;
+  font-family: 'Satisfy', cursive;
+}
+.topcontainer
+{
+  background-color: #ededed;
+  position: relative;
+  padding-top:10px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.c{
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.poem{
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  margin-top: 80px;
+
+}
+.web{
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+
+}
+.cook{
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  margin-top: 120px;
+}
+.bottom-container{
+  background-color: #ededed;
+}
+.middlecontainer{
+
+}
+.bottom-container{
+  padding-top: 25px;
+  margin-bottom: 0;
+}
+.IMAG2
+{
+  left:50px;
+  top:100px;
+  position: absolute;
+}
+.footer-link{
+  margin: auto 20px;
+}
+.pen1{
+position: absolute;
+right:50px;
+top:100px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+.btn {
+  margin-bottom: 50px;
+  -moz-box-shadow: 0px 10px 14px -7px #276873;
+  -webkit-box-shadow: 0px 10px 14px -7px #276873;
+  box-shadow: 0px 10px 14px -7px #276873;
+  background-color: #ededed;
+  -webkit-border-top-left-radius:8px;
+  -moz-border-radius-topleft:8px;
+  border-top-left-radius:8px;
+  -webkit-border-top-right-radius:8px;
+  -moz-border-radius-topright:8px;
+  border-top-right-radius:8px;
+  -webkit-border-bottom-right-radius:8px;
+  -moz-border-radius-bottomright:8px;
+  border-bottom-right-radius:8px;
+  -webkit-border-bottom-left-radius:8px;
+  -moz-border-radius-bottomleft:8px;
+  border-bottom-left-radius:8px;
+text-indent:0;
+  display:inline-block;
+  color:black;
+  font-family:arial;
+  font-size:15px;
+  font-weight:bold;
+  font-style:normal;
+height:50px;
+  line-height:50px;
+width:140px;
+  text-decoration:none;
+  text-align:center;
+  text-shadow:0px 1px 0px #3d768a;
+}.btn:hover {
+  background-color:#408c99;
+}.btn:active {
+  position:relative;
+  top:1px;
+}
